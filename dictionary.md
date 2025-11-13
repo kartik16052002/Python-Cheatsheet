@@ -61,5 +61,7 @@ squares = {x: x**2 for x in range(1, 6)}
 even_squares = {k:v for k,v in squares.items() if v % 2 == 0}
 
 
-[W3Schools][https://www.w3schools.com/python/python_dictionaries.asp]
-[GFG][https://www.geeksforgeeks.org/python/python-dictionary/]
+# References
+
+[W3Schools](https://www.w3schools.com/python/python_dictionaries.asp)
+[GFG](https://www.geeksforgeeks.org/python/python-dictionary/)

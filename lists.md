@@ -76,5 +76,5 @@ for row in mat:
 
 # References
 
-[W3Schools][https://www.w3schools.com/python/python_lists.asp]
-[GFG][https://www.geeksforgeeks.org/python/python-lists/]
+[W3Schools](https://www.w3schools.com/python/python_lists.asp)
+[GFG](https://www.geeksforgeeks.org/python/python-lists/)

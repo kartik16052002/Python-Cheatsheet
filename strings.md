@@ -95,5 +95,5 @@ vowels = sum(ch.lower() in "aeiou" for ch in "Kartik")
 
 # References
 
-[W3Schools][https://www.w3schools.com/python/python_strings.asp]
-[DevDocs][https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-template-string-literals]
+[W3Schools](https://www.w3schools.com/python/python_strings.asp)
+[DevDocs](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-template-string-literals)
